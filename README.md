@@ -5,14 +5,15 @@
 ## 구현 과정
 
 * SSML을 통해 원본 동영상의 자막을 .ssml 파일로 만들어준다.
-* Anaconda를 통한 가상환경을 만들어 google API로 위 파일을 음성파일로 녹음해준다.   
-* 원본 파일과 녹음된 음성파일을 moviepy 라이브러리를 이용하여 합쳐준다.
+* Anaconda를 통한 가상환경을 만들어 google API활용해 ssml파일을 음성파일로 변환해준다.   
+* 원본 파일과 변환된 음성파일을 moviepy 라이브러리를 이용하여 합쳐준다.
 * 최종결과 result.mp4를 write해준다.
 
 
 ## 결과 영상
 
 아래 영상은 화면 녹화 영상이기에 소리와 함께 듣기 위해서는 result dir에 result.mp4를 실행하여 확인 부탁드립니다.
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95575122/167306870-6af033c8-6a20-4a28-b37e-69a14be2c36b.gif)
 
 
