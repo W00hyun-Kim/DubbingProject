@@ -13,7 +13,7 @@
 
 ## 결과 영상
 
-아래 영상은 화면 녹화 영상이기에 소리와 함께 듣기 위해서는 result directory에 dubbing_result.mp4를 실행하여 확인 부탁드립니다.
+아래 영상은 화면 녹화 영상이기에 소리와 함께 듣기 위해서는 [result directory](https://github.com/W00hyun-Kim/DubbingProject/tree/main/result)에 dubbing_result.mp4를 실행하여 확인 부탁드립니다.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95575122/167306870-6af033c8-6a20-4a28-b37e-69a14be2c36b.gif)
 
