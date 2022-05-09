@@ -23,5 +23,5 @@
 
 김우현 – [https://woohyun.tistory.com/](https://woohyun.tistory.com/) – woohyun9509@gmail.com
 
-Apache License 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
+Apache License 2.0 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
